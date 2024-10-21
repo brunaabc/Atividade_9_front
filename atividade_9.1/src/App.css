@@ -1,0 +1,62 @@
+.home {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: rgb(11, 11, 20);
+}
+
+.tituloHome {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: black;
+  background-color: rgb(127, 193, 255);
+}
+
+.blogs {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: rgb(11, 11, 20);
+}
+
+.tituloBlog {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: black;
+  background-color: rgb(127, 255, 234);
+}
+
+.contact {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: rgb(11, 11, 20);
+}
+
+.tituloContact {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: black;
+  background-color: rgb(127, 255, 144);
+}
+
+.tituloErro {
+  background-color: rgb(245, 68, 24);
+}
+
+.nomeAutor {
+  background-color: rgb(213, 184, 240);
+}
+
+.nomeAutor2 {
+  background-color: rgb(218, 118, 118);
+}
+
+.nomeAutor3 {
+  background-color:rgb(255, 239, 150) ;
+}
+
+.nomeAutor4 {
+  background-color: rgb(155, 190, 255);
+}
+
+.contatoSac {
+  background-color: rgb(250, 56, 56);
+}
